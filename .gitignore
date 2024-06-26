@@ -1,0 +1,11 @@
+# Ignore all files by default
+*
+
+# Unignore directories and the .gitignore file itself
+!*/
+!.gitignore
+
+!MeshShaderRender/
+!MeshShaderRender.xcodeproj/
+
+*.zip
